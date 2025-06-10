@@ -1,12 +1,12 @@
 # IMU based vital signs health classifier
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6%2B-orange)
-
 ---
 
-## 프로젝트 개요
-이 프로젝트의 목적은 차세대통신 혁신융합대학사업단에서 주관하고, 국민대학교와 울산과학대학교가 참여한 반려견 헬스케어 시스템 Pet-i 애플리케이션에 탑재하기 위함입니다.
-TensorFlow Keras 기반의 심층 신경망을 사용하며, 실제 데이터가 없을 경우 합성 데이터 생성 기능을 제공합니다.
+## 개요
+첨단분야 혁신융합대학 차세대통신 사업단, 국민대학교와 울산과학대학교가 참여한 반려견을 위한 헬스케어 시스템 시제품 PET-i 입니다.
+UC NCCOSS x KMU NCCOSS PET-i Project
+
+![KakaoTalk_Photo_2025-06-10-19-46-13](https://github.com/user-attachments/assets/e664ed1b-9938-4c09-88d6-52c8159788e7)
 
 ---
 
